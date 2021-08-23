@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for You Floral	</title>
+	<atom:link href="https://www.youfloral.ca/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.youfloral.ca</link>
+	<description>DIY Flowers for Weddings</description>
+	<lastBuildDate>Wed, 18 Aug 2021 04:30:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		Comment on Real Weddings &#8211; Susanne and Jeff by Lee		</title>
+		<link>https://www.youfloral.ca/real-weddings-susanne-and-jeff/#comment-2</link>
+
+		<dc:creator><![CDATA[Lee]]></dc:creator>
+		<pubDate>Tue, 27 Jul 2021 14:37:36 +0000</pubDate>
+		<guid isPermaLink="false">https://www.youfloral.ca/?p=4608#comment-2</guid>
+
+					<description><![CDATA[Nice article, beautiful wedding.]]></description>
+			<content:encoded><![CDATA[<p>Nice article, beautiful wedding.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
